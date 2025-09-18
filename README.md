@@ -24,8 +24,8 @@ Make sure you have the following installed:
 
 1.  Clone the repository:
     ```bash
-    git clone []
-    cd shoppyglobe-api
+    git clone [https://github.com/Bhushannasre/ShoppyGlobal-Backend.git]
+    
     ```
 2.  Install the required Node.js packages:
     ```bash
@@ -101,3 +101,4 @@ Here are screenshots of the API endpoints tested with ThunderClient, demonstrati
 ## Author
 
 Bhushan Nasre
+
